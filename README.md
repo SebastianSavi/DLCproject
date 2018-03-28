@@ -1,1 +1,3 @@
 # DLCproject
+
+Requires jupyter notebook
